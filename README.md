@@ -26,10 +26,6 @@
 |  github   |  https://github.com/elunez/eladmin   |  https://github.com/elunez/eladmin-web   |
 |  码云   |  https://gitee.com/elunez/eladmin   |  https://gitee.com/elunez/eladmin-web   |
 
-#### 赞助商 | Sponsor
-
-<a href="https://www.mingdao.com/?s=utm_79&utm_source=eladmin&utm_medium=banner&utm_campaign=github&utm_content=IT赋能业务" target="_blank">
-<img src="https://eladmin.vip/images/banner/mdy_index.png" alt="明道云零代码构建平台" style="width: 400px;border-radius: 2px;">
 
 #### 主要特性
 - 使用最新技术栈，社区资源丰富。
@@ -103,9 +99,5 @@
 - 感谢 [j.yao.SUSE](https://github.com/everhopingandwaiting) 大佬提供的匿名接口与Redis限流等功能
 
 - 感谢 [d15801543974](https://github.com/d15801543974) 大佬提供的基于注解的通用查询方式
-
-#### 项目捐赠
-项目的发展离不开你的支持，请作者喝杯咖啡吧☕  [Donate](https://eladmin.vip/pages/030101/)
-
 #### 反馈交流
 - QQ交流群：891137268 、947578238、659622532
